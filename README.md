@@ -3,7 +3,7 @@
 My company is planning to expand into the aircraft industry, and is interested in purchasing and operating airplanes for both commercial and private enterprises. Since this is a novel business venture for the organization, an analysis of aircraft data has been conducted in order to identify potential risks and acquire useful insights that the company can utilize as it diversifies its portfolio.
 
 ## Business Understanding
-The objective of this analysis is to determine if delving into the aircraft industry is worthwhile for the company, and to identify operational practices/measures that can be incorporated to reduce risks.
+The objective of this analysis is to determine if delving into the aircraft industry is worthwhile for the company, and to identify which types of aircrafts the company should purchase to reduce risks.
 To achieve this, the following questions were investigated:
 
 1. What is the trend of aircraft accidents and fatalities over the years?
@@ -71,4 +71,10 @@ However, it is important to note situations that lead to occurrences of these ac
 
 The analysis also shows that there is a higher risk of fatal injuries in accidents that involve aircrafts with only one engine while those with more than one engine have less fatal injuries.
 
-In conclusion, the aircraft industry is a worthwhile business venture for the company given that a lot of effort has been put into advancing the technology used in airplanes to make them safer. Working with pilots who have more experience might also be beneficial as they might be able to anticipate and quickly arrest certain issues that are likely to cause accidents in different phases of flight. Finally, it is also advisable for the company to invest in aircrafts that have at least two engines, to further reduce the risk of fatalities.
+In conclusion, the aircraft industry is a worthwhile business venture for the company given that a lot of effort has been put into advancing the technology used in airplanes to make them safer. Investing in aircrafts that have sophisticated auto-pilot and auto-landing systems will be beneficial as this will enhance flight precision and reduce number of accidents at Landing and Takeoff. Finally, it is also advisable for the company to invest in aircrafts that have at least two engines, to further reduce the risk of fatalities.
+
+
+## Links
+Presentation slides: [Slides](https://github.com/SharonWM/airplane_analysis/blob/main/presentation.pdf)
+
+Interactive dashboard: [Tableau Dashboard](https://public.tableau.com/views/Aviation-data-analysis/AviationDataAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
